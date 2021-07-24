@@ -7,7 +7,7 @@ for deposit my csapp labs and notes.
 
 #### Labs
 
-[data lab](labs/data lab/data lab.md)
+[data lab](https://github.com/Noob-JJ/csapp-lab/blob/master/labs/data%20lab/data%20lab.md)
 
 
 
